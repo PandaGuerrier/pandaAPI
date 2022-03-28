@@ -1,0 +1,31 @@
+.title {
+    position: absolute;
+    width: 674px;
+    height: 118px;
+    left: 630px;
+    top: 150px;
+
+    font-family: 'Baloo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 193px;
+
+    color: #FFFFFF;
+}
+
+.sousTitle {
+    position: absolute;
+    width: 674px;
+    height: 118px;
+    left: 780px;
+    top: 270px;
+
+    font-family: 'Baloo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 193px;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,41 @@
+.title {
+
+    position: absolute;
+    width: max-contentpx;
+    height: max-contentpx;
+    left: 610px;
+    top: 200px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 83.5%;
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+}
+
+.sousTitle {
+    position: absolute;
+    width: max-content;
+    height: max-content;
+    left: 780px;
+    top: 270px;
+
+    font-family: 'Baloo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 193px;
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+}

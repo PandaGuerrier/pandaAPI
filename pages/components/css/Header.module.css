@@ -1,0 +1,65 @@
+.forme {
+
+position: absolute;
+width: 350px;
+height: 2px;
+left: 760px;
+top: 80px;
+
+
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    border-radius: 10px;
+}
+.proposText {
+
+    position: absolute;
+    width: max-content;
+    height: max-content;
+    left: 650px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 72px;
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.homeText {
+
+    position: absolute;
+    width: max-content;
+    height: max-content;
+    left: 890px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 72px;
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;}
+
+.projetsText {
+
+    position: absolute;
+    width: max-content;
+    height: max-content;
+    left: 1100px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 72px;
+
+    background: linear-gradient(91.81deg, #C3003B 0%, #FF8059 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

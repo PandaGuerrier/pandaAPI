@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Baloo";
+	src: url('Baloo2.ttf');
+}
+
+body {
+    font-family: 'Baloo';
+    max-width: 680px;
+    background-color: #272323;
+    text-decoration: none;
+    scroll-behavior: smooth
+  }
